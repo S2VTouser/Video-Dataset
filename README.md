@@ -7,7 +7,7 @@ Download our footage repository and video dataset from the link：https://drive.
 |  ------  | ------- |
 |  labels |  Annotated video dataset according to three metrics for training classifiers |
 |  lyric_files  |  Song and correponding song lyrics to generate videos |
-|  footage_repository |  A large Collection of shots  |
+|  footage_repository |  A large collection of shots  |
 |  video dataset |  Generated videos using Random Selection method(referred to our paper) based on lyric files |
 
 ## Usage
