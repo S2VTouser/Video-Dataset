@@ -2,7 +2,7 @@
 Song-to-video dataset is used to facilitate the research of song-to-video translation (S2VT) work, which includes song and paired song lyrics, videos and labels. We also publish the used footage repository.
 
 ## Datasets
-Download our footage repository and video dataset from the link: https://drive.google.com/drive/folders/1bELhKX8vrPN4_hX94ZwUmpgLxRChmm4P?usp=sharing. For the footage, there are some files in this drive, rest files will be released after opening due to the capacity limitations of drive.
+Download our footage repository and video dataset from the link: https://drive.google.com/drive/folders/1bELhKX8vrPN4_hX94ZwUmpgLxRChmm4P?usp=sharing. For the footage, due to the limitation of drive capacity, there are only some files here, and the rest files will be released after opening in other drive.
 | Filename  |  Description |
 |  ------  | ------- |
 |  labels |  Annotated video dataset according to three metrics for training classifiers |
